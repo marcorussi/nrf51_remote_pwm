@@ -48,5 +48,6 @@ Connect your nrf51 Dev. Kit, make and flash it:
     $ make flash
 
 You can erase the whole flash memory by running:
+
     $ make erase
 
